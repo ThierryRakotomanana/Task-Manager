@@ -30,6 +30,14 @@ li {
     border-radius: 5px;
 }
 
+.description.span {
+    display: none;
+}
+
+.description.textarea {
+    width: 100%;
+}
+
 .contain-text,
 .contain-button {
     margin: 2.5px;
